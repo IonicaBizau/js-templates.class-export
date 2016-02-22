@@ -68,18 +68,6 @@ Generates a class export template.
 #### Return
 - **String** The rendered template.
 
-### `${name}(options)`
-${desc || "Sample description"}
-
-#### Params
-- **Object** `options`: An object containing the following fields:
- - \`fieldOne\` (Number): Any number (default: \`42\`).
-
-#### Return
-- **** ${name} The \`${name}\` instance.
-
-do something
-
 ## How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
