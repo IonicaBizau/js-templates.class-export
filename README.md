@@ -58,12 +58,12 @@ console.log(classExport("bar", "Class description"));
 
 ## Documentation
 
-### `classExport(name, name)`
+### `classExport(name, desc)`
 Generates a class export template.
 
 #### Params
 - **String** `name`: The function name.
-- **String** `name`: The function description (optional).
+- **String** `desc`: The function description (optional).
 
 #### Return
 - **String** The rendered template.
