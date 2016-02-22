@@ -1,0 +1,29 @@
+{
+  "name": "js-templates.class-export",
+  "description": "",
+  "keywords": [
+    "js",
+    "templates",
+    "class",
+    "export"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/js-templates.class-export.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/js-templates.class-export/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/js-templates.class-export#readme",
+  "dependencies": {
+    "camelo": "^1.1.1",
+    "ucfirst": "^1.0.0"
+  }
+}
