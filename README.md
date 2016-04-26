@@ -1,14 +1,18 @@
+
 # js-templates.class-export [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/js-templates.class-export.svg)](https://www.npmjs.com/package/js-templates.class-export) [![Downloads](https://img.shields.io/npm/dt/js-templates.class-export.svg)](https://www.npmjs.com/package/js-templates.class-export) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Generate a sample class export code.
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save js-templates.class-export
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
 const classExport = require("js-templates.class-export");
@@ -56,7 +60,8 @@ console.log(classExport("bar", "Class description"));
 // };
 ```
 
-## Documentation
+## :memo: Documentation
+
 
 ### `classExport(name, desc)`
 Generates a class export template.
@@ -68,15 +73,18 @@ Generates a class export template.
 #### Return
 - **String** The rendered template.
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
+## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
- - [`js-templates`](https://github.com/IonicaBizau/js-templates#readme)
 
-## License
+ - [`js-templates`](https://github.com/IonicaBizau/js-templates#readme)—Generate JS code templates.
+
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
